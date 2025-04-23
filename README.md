@@ -14,7 +14,7 @@
 ###
 
 <div align="center">
-  ![Skills](https://skills-icons.vercel.app/api/icons?i=java,ts,js,node,mongo,mysql,rust,sequelize,vite,cloudflare,sharp,express,redis,tailwind,neo4j)
+  <img src="https://skills-icons.vercel.app/api/icons?i=java,ts,js,node,mongo,mysql,rust,sequelize,vite,cloudflare,sharp,express,redis,tailwind,neo4j"></div>
 </div>
 
 ###
