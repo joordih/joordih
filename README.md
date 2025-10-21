@@ -26,7 +26,7 @@
     <br />
     <div>
       <a href="https://github.com/joordih/" target="_blank" rel="noopener noreferrer">
-        <img src="https://github-widgetbox.vercel.app/api/profile?username=joordih&data=followers,repositories,stars,commits&theme=serika" alt="Joordih">
+        <img src="https://github-widgetbox-continued-enumpplco-harpylmaos-projects.vercel.app/api/profile?username=joordih&data=followers,repositories,stars,commits&theme=darkmode" alt="Joordih">
       </a>
     </div>
   </div>
@@ -37,11 +37,22 @@
 <br />
 
 <details>
-  <summary><h2>📊 Skills</h2></summary>
+  <summary style="display: flex; align-items: center; gap: 6px; cursor: pointer;">
+    <img
+      src="https://api.iconify.design/solar/code-bold-duotone.svg?color=%23A78BFA&width=22"
+      alt="Code Icon"
+    >
+    <h2 style="display: inline; margin: 0;">Languages</h2>
+  </summary>
   <div>
     <br />
     <div>
-        [![Joordih Languages](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,csharp,rust,mysql,powershell,lua&theme=darkmode&includeNames=false)](https://github.com/joordih/)
+      <a href="https://github.com/joordih/" target="_blank" rel="noopener noreferrer">
+        <img
+          src="https://github-widgetbox-continued-enumpplco-harpylmaos-projects.vercel.app/api/skills?languages=js,ts,java,php,csharp,rust,mysql&theme=darkmode&includeNames=true"
+          alt="Joordih Languages"
+        >
+      </a>
     </div>
   </div>
 </details>
