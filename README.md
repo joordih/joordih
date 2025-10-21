@@ -26,20 +26,10 @@
     <br />
     <div>
       <a href="https://github.com/joordih/" target="_blank" rel="noopener noreferrer">
-        <picture>
-          <source
-            media="(prefers-color-scheme: dark)"
-            srcset="https://github-widgetbox-continued.vercel.app/api/profile?username=joordih&data=followers,repositories,stars,commits&theme=personaldark"
-          >
-          <source
-            media="(prefers-color-scheme: light)"
-            srcset="https://github-widgetbox-continued.vercel.app/api/profile?username=joordih&data=followers,repositories,stars,commits&theme=personallight"
-          >
-          <img
-            alt="Joordih Profile"
-            src="https://github-widgetbox-continued.vercel.app/api/profile?username=joordih&data=followers,repositories,stars,commits&theme=personallight"
-          >
-        </picture>
+        <img
+          alt="Joordih Profile"
+          src="https://github-widgetbox-continued.vercel.app/api/profile?username=joordih&data=followers,repositories,stars,commits"
+        >
       </a>
     </div>
   </div>
@@ -57,20 +47,10 @@
     <br />
     <div>
       <a href="https://github.com/joordih/" target="_blank" rel="noopener noreferrer">
-        <picture>
-          <source
-            media="(prefers-color-scheme: dark)"
-            srcset="https://github-widgetbox-continued.vercel.app/api/skills?languages=js,ts,java,php,csharp,rust,mysql&theme=personaldark&includeNames=true"
-          >
-          <source
-            media="(prefers-color-scheme: light)"
-            srcset="https://github-widgetbox-continued.vercel.app/api/skills?languages=js,ts,java,php,csharp,rust,mysql&theme=personallight&includeNames=true"
-          >
-          <img
-            alt="Joordih Languages"
-            src="https://github-widgetbox-continued.vercel.app/api/skills?languages=js,ts,java,php,csharp,rust,mysql&theme=personallight&includeNames=true"
-          >
-        </picture>
+        <img
+          alt="Joordih Languages"
+          src="https://github-widgetbox-continued.vercel.app/api/skills?languages=js,ts,java,php,csharp,rust,mysql&includeNames=true"
+        >
       </a>
     </div>
   </div>
