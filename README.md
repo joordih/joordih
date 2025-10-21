@@ -49,7 +49,7 @@
       <a href="https://github.com/joordih/" target="_blank" rel="noopener noreferrer">
         <img
           alt="Joordih Languages"
-          src="https://github-widgetbox-continued.vercel.app/api/skills?languages=js,ts,java,php,csharp,rust,mysql&includeNames=true"
+          src="https://github-widgetbox-continued.vercel.app/api/skills?languages=js,ts,java,csharp,rust,html,css,mysql,lua,powershell,bash&includeNames=true"
         >
       </a>
     </div>
