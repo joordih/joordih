@@ -55,3 +55,87 @@
     </div>
   </div>
 </details>
+
+<br />
+<br />
+
+<details>
+  <summary style="display: flex; align-items: center; gap: 6px; cursor: pointer;">
+    <img src="https://api.iconify.design/solar/folder-favourite-bookmark-bold-duotone.svg?color=%23A78BFA&width=22" alt="Folder Icon">
+    <h2 style="display: inline; margin: 0;">Libraries</h2>
+  </summary>
+  <div>
+    <br />
+    <div>
+      <a href="https://github.com/joordih/" target="_blank" rel="noopener noreferrer">
+        <img
+          alt="Joordih Libraries"
+          src="https://github-widgetbox-continued.vercel.app/api/skills?libraries=Guava,Servlet,MongoJack,Reflections,Gson,Guice,Jackson&includeNames=true"
+        >
+      </a>
+    </div>
+  </div>
+</details>
+
+<br />
+<br />
+
+<details>
+  <summary style="display: flex; align-items: center; gap: 6px; cursor: pointer;">
+    <img src="https://api.iconify.design/solar/medal-star-bold-duotone.svg?color=%23A78BFA&width=22" alt="Medal Icon">
+    <h2 style="display: inline; margin: 0;">Skills</h2>
+  </summary>
+  <div>
+    <br />
+    <div>
+      <a href="https://github.com/joordih/" target="_blank" rel="noopener noreferrer">
+        <img
+          alt="Joordih Skills"
+          src="https://github-widgetbox-continued.vercel.app/api/skills?tools=Git,Docker,MongoDB,Redis,NodeJS,NGINX,Gradle&includeNames=true"
+        >
+      </a>
+    </div>
+  </div>
+</details>
+
+<br />
+<br />
+
+<details>
+  <summary style="display: flex; align-items: center; gap: 6px; cursor: pointer;">
+    <img src="https://api.iconify.design/solar/box-minimalistic-bold-duotone.svg?color=%23A78BFA&width=22" alt="Stack Icon">
+    <h2 style="display: inline; margin: 0;">Daily Stack</h2>
+  </summary>
+  <div>
+    <br />
+    <div>
+      <a href="https://github.com/joordih/" target="_blank" rel="noopener noreferrer">
+        <img
+          alt="Joordih Stack"
+          src="https://github-widgetbox-continued.vercel.app/api/skills?software=Git,Docker,MongoDB,Redis,NodeJS,NGINX,Gradle&includeNames=true"
+        >
+      </a>
+    </div>
+  </div>
+</details>
+
+<br />
+<br />
+
+<details>
+  <summary style="display: flex; align-items: center; gap: 6px; cursor: pointer;">
+    <img src="https://api.iconify.design/solar/laptop-minimalistic-bold-duotone.svg?color=%23A78BFA&width=22" alt="Laptop Icon">
+    <h2 style="display: inline; margin: 0;">Softwares</h2>
+  </summary>
+  <div>
+    <br />
+    <div>
+      <a href="https://github.com/joordih/" target="_blank" rel="noopener noreferrer">
+        <img
+          alt="Joordih Softwares"
+          src="https://github-widgetbox-continued.vercel.app/api/skills?software=Arch,Windows,VSCode,Zed,IntelliJ&includeNames=true"
+        >
+      </a>
+    </div>
+  </div>
+</details>
