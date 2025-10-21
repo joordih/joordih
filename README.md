@@ -112,7 +112,7 @@
       <a href="https://github.com/joordih/" target="_blank" rel="noopener noreferrer">
         <img
           alt="Joordih Stack"
-          src="https://github-widgetbox-continued.vercel.app/api/skills?software=Git,Docker,MongoDB,Redis,NodeJS,NGINX,Gradle&includeNames=true"
+          src="https://github-widgetbox-continued.vercel.app/api/skills?tools=Git,Docker,MongoDB,Redis,NodeJS,NGINX,Gradle&includeNames=true"
         >
       </a>
     </div>
