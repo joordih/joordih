@@ -26,32 +26,51 @@
     <br />
     <div>
       <a href="https://github.com/joordih/" target="_blank" rel="noopener noreferrer">
-        <img src="https://github-widgetbox-continued-enumpplco-harpylmaos-projects.vercel.app/api/profile?username=joordih&data=followers,repositories,stars,commits&theme=darkmode" alt="Joordih">
+        <picture>
+          <source
+            media="(prefers-color-scheme: dark)"
+            srcset="https://github-widgetbox-continued.vercel.app/api/profile?username=joordih&data=followers,repositories,stars,commits&theme=personaldark"
+          >
+          <source
+            media="(prefers-color-scheme: light)"
+            srcset="https://github-widgetbox-continued.vercel.app/api/profile?username=joordih&data=followers,repositories,stars,commits&theme=personallight"
+          >
+          <img
+            alt="Joordih Profile"
+            src="https://github-widgetbox-continued.vercel.app/api/profile?username=joordih&data=followers,repositories,stars,commits&theme=personallight"
+          >
+        </picture>
       </a>
     </div>
   </div>
 </details>
-
 
 <br />
 <br />
 
 <details>
   <summary style="display: flex; align-items: center; gap: 6px; cursor: pointer;">
-    <img
-      src="https://api.iconify.design/solar/code-bold-duotone.svg?color=%23A78BFA&width=22"
-      alt="Code Icon"
-    >
+    <img src="https://api.iconify.design/solar/code-bold-duotone.svg?color=%23A78BFA&width=22" alt="Code Icon">
     <h2 style="display: inline; margin: 0;">Languages</h2>
   </summary>
   <div>
     <br />
     <div>
       <a href="https://github.com/joordih/" target="_blank" rel="noopener noreferrer">
-        <img
-          src="https://github-widgetbox-continued-enumpplco-harpylmaos-projects.vercel.app/api/skills?languages=js,ts,java,php,csharp,rust,mysql&theme=darkmode&includeNames=true"
-          alt="Joordih Languages"
-        >
+        <picture>
+          <source
+            media="(prefers-color-scheme: dark)"
+            srcset="https://github-widgetbox-continued.vercel.app/api/skills?languages=js,ts,java,php,csharp,rust,mysql&theme=personaldark&includeNames=true"
+          >
+          <source
+            media="(prefers-color-scheme: light)"
+            srcset="https://github-widgetbox-continued.vercel.app/api/skills?languages=js,ts,java,php,csharp,rust,mysql&theme=personallight&includeNames=true"
+          >
+          <img
+            alt="Joordih Languages"
+            src="https://github-widgetbox-continued.vercel.app/api/skills?languages=js,ts,java,php,csharp,rust,mysql&theme=personallight&includeNames=true"
+          >
+        </picture>
       </a>
     </div>
   </div>
