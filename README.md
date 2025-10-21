@@ -18,14 +18,20 @@
 <br />
 
 <details>
-  <summary><h2>📊 Languages</h2></summary>
+  <summary style="display: flex; align-items: center; gap: 6px; cursor: pointer;">
+    <img src="https://api.iconify.design/solar/user-rounded-bold-duotone.svg?color=%23A78BFA&width=22" alt="About Me Icon">
+    <h2 style="display: inline; margin: 0;">About me</h2>
+  </summary>
   <div>
     <br />
     <div>
-        [![Joordih](https://github-widgetbox.vercel.app/api/profile?username=joordih&data=followers,repositories,stars,commits&theme=serika)](https://github.com/joordih/)
+      <a href="https://github.com/joordih/" target="_blank" rel="noopener noreferrer">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=joordih&data=followers,repositories,stars,commits&theme=serika" alt="Joordih">
+      </a>
     </div>
   </div>
 </details>
+
 
 <br />
 <br />
