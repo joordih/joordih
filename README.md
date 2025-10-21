@@ -83,14 +83,14 @@
 <details>
   <summary style="display: flex; align-items: center; gap: 6px; cursor: pointer;">
     <img src="https://api.iconify.design/solar/medal-star-bold-duotone.svg?color=%23A78BFA&width=22" alt="Medal Icon">
-    <h2 style="display: inline; margin: 0;">Skills</h2>
+    <h2 style="display: inline; margin: 0;">Tools</h2>
   </summary>
   <div>
     <br />
     <div>
       <a href="https://github.com/joordih/" target="_blank" rel="noopener noreferrer">
         <img
-          alt="Joordih Skills"
+          alt="Joordih Tools"
           src="https://github-widgetbox-continued.vercel.app/api/skills?tools=Git,Docker,MongoDB,Redis,NodeJS,NGINX,Gradle&includeNames=true"
         >
       </a>
