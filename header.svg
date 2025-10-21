@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="896" height="288" viewBox="0 0 896 288" fill="none">
+  <style>
+    * {
+      transform-origin: center;
+      transform-box: fill-box;
+    }
+    .animate-ping {
+      animation: ping 1s cubic-bezier(0, 0, 0.2, 1) infinite;
+    }
+    .animate-fade-in {
+      animation: fade-in 0.64s cubic-bezier(0, 0, 0.2, 1) forwards;
+    }
+    .animate-fade-in-bottom {
+      animation: fade-in-bottom 0.64s cubic-bezier(0, 0, 0.2, 1) forwards;
+    }
+    .animate-fade-in-right {
+      animation: fade-in-right 0.64s cubic-bezier(0, 0, 0.2, 1) forwards;
+    }
+    .title { opacity: 0; animation-delay: 0.4s; }
+    .description { opacity: 0; animation-delay: 0.7s; }
+    .additional { opacity: 0; animation-delay: 1s; }
+    .additional__indicator { opacity: 0; animation-delay: 1.6s; }
+
+    @keyframes ping {
+      75%, 100% { transform: scale(2); opacity: 0; }
+    }
+    @keyframes fade-in { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes fade-in-bottom {
+      from { opacity: 0; transform: translate3d(0, -20px, 0); }
+      to { opacity: 1; transform: translate3d(0, 0, 0); }
+    }
+    @keyframes fade-in-right {
+      from { opacity: 0; transform: translate3d(-20px, 0, 0); }
+      to { opacity: 1; transform: translate3d(0, 0, 0); }
+    }
+  </style>
+
+  <g clip-path="url(#clip0_1_2)">
+    <rect width="896" height="288" fill="url(#paint0_linear_1_2)" />
+    <mask id="mask0_1_2" style="mask-type: alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="896" height="288">
+      <rect width="896" height="288" fill="url(#paint1_linear_1_2)" />
+    </mask>
+    <g mask="url(#mask0_1_2)">
+      <path d="M32.5 0L32.5 288M64.5 0L64.5 288M96.5 0L96.5 288M128.5 0L128.5 288M160.5 0L160.5 288M192.5 0L192.5 288M224.5 0L224.5 288M256.5 0V288M288.5 0V288M320.5 0V288M352.5 0V288M384.5 0V288M416.5 0V288M448.5 0V288M480.5 0V288M512.5 0V288M544.5 0V288M576.5 0V288M608.5 0V288M640.5 0V288M672.5 0V288M704.5 0V288M736.5 0V288M768.5 0V288M800.5 0V288M832.5 0V288M864.5 0V288M0 31.5H896M0 63.5H896M0 95.5H896M0 127.5H896M0 159.5H896M0 191.5H896M0 223.5H896M0 255.5H896"
+        stroke="black" stroke-opacity="0.07" stroke-dasharray="5 5" />
+    </g>
+
+    <g class="animate-fade-in-bottom title">
+      <text x="265" y="150" fill="#475569" font-size="48" font-family="Arial, sans-serif" font-weight="600">
+        I'm <tspan fill="#7733FF">Jordi</tspan> Xavier
+      </text>
+    </g>
+
+    <g class="animate-fade-in-bottom description">
+      <text x="330" y="185" fill="#64748b" font-size="22" font-family="Arial, sans-serif">
+        Full-Stack Developer
+      </text>
+    </g>
+
+    <g class="animate-fade-in-right additional">
+      <g class="additional__indicator animate-fade-in" transform="translate(-10,0)">
+        <circle cx="358" cy="215" r="5" fill="#7733ff" class="animate-ping" />
+        <circle cx="358" cy="215" r="3" fill="#7733ff" />
+      </g>
+      <text x="375" y="220" fill="#7733ff" font-size="18" font-family="Arial, sans-serif">
+        CONTACT ME
+      </text>
+    </g>
+  </g>
+
+  <defs>
+    <linearGradient id="paint0_linear_1_2" x1="448" y1="0" x2="448" y2="288" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E2E8F0" />
+      <stop offset="1" stop-color="#E2E8F0" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="paint1_linear_1_2" x1="448" y1="0" x2="448" y2="288" gradientUnits="userSpaceOnUse">
+      <stop />
+      <stop offset="1" stop-opacity="0" />
+    </linearGradient>
+    <clipPath id="clip0_1_2">
+      <path d="M0 32C0 14.3269 14.3269 0 32 0H864C881.673 0 896 14.3269 896 32V288H0V32Z" fill="white" />
+    </clipPath>
+  </defs>
+</svg>
